@@ -1,4 +1,4 @@
-# Tugas 1: Implementasi K-Means Clustering (Modul GPS Trajectories)
+# Implementasi K-Means Clustering (Modul GPS Trajectories)
 
 Repository ini berisi pengerjaan modul praktikum K-Means Clustering menggunakan dataset GPS Trajectories.
 
